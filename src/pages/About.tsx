@@ -22,19 +22,17 @@ const About = () => {
           <div className="max-w-3xl mx-auto">
             <div className="space-y-8 text-lg leading-relaxed text-muted-foreground">
               <p>
-                PON was founded in 2020 with a simple belief: clothing should be an extension 
-                of your identity, not a uniform. We saw a gap in streetwear—brands were either 
-                too loud or too basic, nothing spoke to the person who wanted to stand out 
-                through subtlety and quality.
+               PON with a simple mission: to make clothing that reflects 
+               who you are, not what everyone else expects. We noticed a gap in the streetwear scene—brands were either 
+               too flashy or too plain, leaving little for those who want to express themselves with subtlety and care.
               </p>
-              
-              <p>
-                Every piece we create starts with a question: "Would we wear this every day?" 
-                If the answer isn't an immediate yes, we go back to the drawing board. This 
-                obsession with getting it right has led us to source premium heavyweight cotton, 
-                develop our own signature fits, and work with manufacturers who share our 
-                commitment to quality.
+
+              < p>
+               Every item we design begins with one question: "Would we wear 
+               this every day?" If the answer isn’t an immediate yes, it doesn’t move forward. This commitment drives us to use premium heavyweight 
+               cotton, create our own unique fits, and collaborate with manufacturers who value quality as much as we do.
               </p>
+
 
               <p>
                 Our hoodies and jackets aren't designed to follow trends—they're built to 
@@ -44,8 +42,9 @@ const About = () => {
               </p>
 
               <p className="font-heading text-foreground text-xl font-medium">
-                PON isn't just a brand. It's a statement that says: "I know who I am."
+                PON isn’t just clothing—it’s a declaration: “This is me, unapologetically.”
               </p>
+
             </div>
           </div>
         </div>

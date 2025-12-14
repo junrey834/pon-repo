@@ -66,7 +66,7 @@ const Footer = () => {
 
         <div className="mt-16 pt-8 border-t border-background/20 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-background/50">
-            © 2024 PON. All rights reserved.
+            © 2025 PON. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-background/50">
             <span>Privacy Policy</span>

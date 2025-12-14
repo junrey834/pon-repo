@@ -102,7 +102,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-medium mb-1">Email</h3>
-                    <p className="text-muted-foreground">hello@pon.com</p>
+                    <p className="text-muted-foreground">ponecommerce@gmail.com</p>
                   </div>
                 </div>
 
@@ -112,7 +112,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-medium mb-1">Phone</h3>
-                    <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                    <p className="text-muted-foreground">+63 (935) 776-8845</p>
                   </div>
                 </div>
 
@@ -123,8 +123,8 @@ const Contact = () => {
                   <div>
                     <h3 className="font-medium mb-1">Location</h3>
                     <p className="text-muted-foreground">
-                      123 Streetwear Ave<br />
-                      Los Angeles, CA 90210
+                      7113 Lion B Postigo<br />
+                      Sindangan, ZN
                     </p>
                   </div>
                 </div>
