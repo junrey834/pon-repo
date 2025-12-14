@@ -143,7 +143,7 @@ const Checkout = () => {
                   type="email"
                   value={formData.email}
                   onChange={handleInputChange('email')}
-                  placeholder="john@example.com"
+                  placeholder="pon@example.com"
                   className={errors.email ? 'border-destructive' : ''}
                 />
                 {errors.email && (
@@ -158,7 +158,7 @@ const Checkout = () => {
                   type="tel"
                   value={formData.phone}
                   onChange={handleInputChange('phone')}
-                  placeholder="+1 (555) 123-4567"
+                  placeholder="+63 (935) 123-4567"
                   className={errors.phone ? 'border-destructive' : ''}
                 />
                 {errors.phone && (
